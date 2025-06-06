@@ -50,8 +50,8 @@ Webcam-based mask detection using OpenCV and ML models
 
 ### 📬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)  
-- [Resume (Overleaf)](https://your-resume-link)
+- [LinkedIn](https://www.linkedin.com/in/varsha-yadav-460008225/)  
+- [Resume (Overleaf)](https://[your-resume-link](https://www.overleaf.com/read/vmdmtcphrwjt#eddefc))
 
 ---
 

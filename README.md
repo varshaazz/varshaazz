@@ -1,12 +1,11 @@
 # Hi, I'm Varsha! 👋
 
-🎓 IT Undergrad at **NIT Kurukshetra**  
- Full-stack Developer | Software Engineer in the Making  
+🎓 IT Undergrad at **NIT Kurukshetra**    
 ![](https://komarev.com/ghpvc/?username=varshaazz&color=0e75b6&style=flat)
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
 I'm a passionate **software developer** who enjoys building full-stack web apps and solving real-world problems with code.  
 Currently exploring advanced **MERN stack**, **backend APIs**, and **machine learning tools** to level up every project I touch.
@@ -36,7 +35,7 @@ Currently exploring advanced **MERN stack**, **backend APIs**, and **machine lea
 ---
 
 ### 🚀 Projects
-#### 🔐 [API Gateway + Firewall](https://github.com/varshaazz/api-gateway)  
+####  [API Gateway + Firewall](https://github.com/varshaazz/api-gateway)  
 Reusable and production-ready **Node.js middleware** for API protection and load balancing.  
 Includes: sliding window rate-limiting, auto IP blocking, reverse proxy with retry & circuit breaker logic.  
 Published as an [npm module](https://www.npmjs.com/package/api-gateway-firewall) for easy integration.

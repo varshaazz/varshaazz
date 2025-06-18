@@ -39,6 +39,8 @@ Currently exploring advanced **MERN stack**, **backend APIs**, and **machine lea
 Reusable and production-ready **Node.js middleware** for API protection and load balancing.  
 Includes: sliding window rate-limiting, auto IP blocking, reverse proxy with retry & circuit breaker logic.  
 Published as an [npm module](https://www.npmjs.com/package/api-gateway-firewall) for easy integration.
+![](https://komarev.com/ghpvc/?username=varshaazz&label=API+Firewall+Views&color=0e75b6&style=flat-square)
+
 
 ```bash
 npm install api-gateway-firewall

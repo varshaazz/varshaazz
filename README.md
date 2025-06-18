@@ -29,12 +29,22 @@ Currently exploring advanced **MERN stack**, **backend APIs**, and **machine lea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
 </p>
+
 
 ---
 
 ### 🚀 Projects
+#### 🔐 [API Gateway + Firewall](https://github.com/varshaazz/api-gateway)  
+Reusable and production-ready **Node.js middleware** for API protection and load balancing.  
+Includes: sliding window rate-limiting, auto IP blocking, reverse proxy with retry & circuit breaker logic.  
+Published as an [npm module](https://www.npmjs.com/package/api-gateway-firewall) for easy integration.
+
+```bash
+npm install api-gateway-firewall
+```
+---
 
 ####  [SkillStage](https://github.com/varshaazz/SkillStage)  
 A virtual open mic + skill exchange platform built with the MERN stack   

@@ -1,69 +1,88 @@
-# Hi, I'm Varsha! 👋
+# Hi, I'm Varsha 👋
 
-🎓 IT Undergrad at **NIT Kurukshetra**    
+**Software Developer | Final-year IT Undergraduate at NIT Kurukshetra**  
 ![](https://komarev.com/ghpvc/?username=varshaazz&color=0e75b6&style=flat)
 
 ---
 
-###  About Me
-
-I'm a passionate **software developer** who enjoys building full-stack web apps and solving real-world problems with code.  
-Currently exploring advanced **MERN stack**, **backend APIs**, and **machine learning tools** to level up every project I touch.
-
-
----
-
-### 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
 
+---
+
+## Projects
+
+### 🌾 Krishi Samvaad  
+**Voice-Based Generative AI Assistant for Agriculture**
+
+A domain-specific **Generative AI + RAG** system that allows users to ask agricultural questions using **voice or text**.  
+The system retrieves information from trusted sources and generates grounded, context-aware responses.
+
+**Key highlights:**
+- Retrieval-Augmented Generation (RAG)
+- Speech-to-text and text-to-speech pipelines
+- Practical handling of Haryanvi/Hindi input
+- Modular Flask backend design
 
 ---
 
-### 🚀 Projects
-####  [API Gateway + Firewall](https://github.com/varshaazz/api-gateway)  
-Reusable and production-ready **Node.js middleware** for API protection and load balancing.  
-Includes: sliding window rate-limiting, auto IP blocking, reverse proxy with retry & circuit breaker logic.  
-Published as an [npm module](https://www.npmjs.com/package/api-gateway-firewall) for easy integration.
-![](https://komarev.com/ghpvc/?username=varshaazz&label=API+Firewall+Views&color=0e75b6&style=flat-square)
+### 🔐 API Gateway + Firewall  
+[GitHub](https://github.com/varshaazz/api-gateway-firewall-project) | [npm](https://www.npmjs.com/package/api-gateway-firewall)
 
+Reusable, production-style **Node.js middleware** for API protection and traffic management.
 
-```bash
-npm install api-gateway-firewall
-```
----
+**Includes:**
+- Sliding window rate limiting
+- Automatic IP blocking
+- Reverse proxy with retry logic
+- Circuit breaker for fault tolerance
 
-####  [SkillStage](https://github.com/varshaazz/SkillStage)  
-A virtual open mic + skill exchange platform built with the MERN stack   
-![](https://komarev.com/ghpvc/?username=varshaazz&label=SkillStage+Views&color=0e75b6&style=flat-square)
+![](https://komarev.com/ghpvc/?username=varshaazz&label=API+Gateway+Views&color=0e75b6&style=flat-square)
 
 ---
 
-####  [Real-Time Mask Detection](https://github.com/varshaazz/RealTime-Mask-Detection)  
-Webcam-based mask detection using OpenCV and ML models  
-![](https://komarev.com/ghpvc/?username=varshaazz&label=Mask+Detection+Views&color=0e75b6&style=flat-square)
+### 🎤 SkillStage  
+[GitHub](https://github.com/varshaazz/SkillStage)
+
+A MERN-based platform for virtual open mics and skill exchange, enabling users to host, join, and showcase talents online.
 
 ---
 
-### 📬 Let's Connect
+### 😷 Real-Time Mask Detection  
+[GitHub](https://github.com/varshaazz/RealTime-Mask-Detection)
 
-- [LinkedIn](https://www.linkedin.com/in/varsha-yadav-460008225/)  
-- [Resume (Overleaf)](https://[your-resume-link](https://www.overleaf.com/read/vmdmtcphrwjt#eddefc))
+Webcam-based mask detection system using OpenCV and machine learning models.
 
 ---
 
-> “Code it till you own it.” — Let’s build something impactful.
+## Interests
+
+- Backend systems and APIs  
+- Distributed system fundamentals  
+- Applied Generative AI (RAG, LLM integration)  
+- Building software under real-world constraints  
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/varsha-yadav-460008225/)
+- [Gmail](mailto:varshaydv0208@gmail.com)
+
+---
+
+> *“Code it till you own it.”*
